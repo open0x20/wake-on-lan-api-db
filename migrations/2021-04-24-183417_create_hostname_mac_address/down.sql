@@ -1,0 +1,1 @@
+DROP TABLE hostname_mac_address;
